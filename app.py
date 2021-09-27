@@ -8,7 +8,11 @@ trainees = [
     "Harry",
 
 
+
     "Dougie",
+
+    "David Barnes",
+    "Lisa",
     "Anton",
 
     "Sam",
@@ -18,23 +22,32 @@ trainees = [
     "Stewart",
     "Korbinian",
     "Reece",
+    "Vaishali",
     "Will",
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizza",
 
+
     "chinese"
+
+    "weetabix",
+    "Pepper Prawns",
+    "Haggis",
+    "Lamb Roast",
+    "Crisps",
+    "Lamb Roast",
 
     "Pepper Prawns",
 
     "Haggis",
-    "Lamb Roast"
     "steak",
     "red pepper and chilli soup",
     "haggis",
     "pasta",
     "lasagne",
+    "GolGappas"
     "polenta",
 ]
 
