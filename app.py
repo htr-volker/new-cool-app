@@ -7,7 +7,6 @@ app = Flask(__name__)
 trainees = [
     "Harry",
     "Dougie",
-=======
     "Stewart",
     "Korbinian",
     "Reece",
@@ -16,7 +15,6 @@ trainees = [
 foods = [
     "pizza",
     "chinese",
-=======
     "haggis",
     "pasta",
     "lasagne",
