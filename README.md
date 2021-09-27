@@ -1,4 +1,4 @@
-# nNew Cool App - Git Pull Request Exercise
+# New Cool App - Git Pull Request Exercise
 
 Your task is as follows:
 
