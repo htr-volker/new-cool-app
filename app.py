@@ -7,11 +7,13 @@ app = Flask(__name__)
 trainees = [
     "Harry",
     "Aisha",
+    "Jack"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
     "pizzza",
     "cake",
+    "lasagne"
 ]
 
 @app.route('/')
