@@ -10,7 +10,7 @@ trainees = [
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
-    "pizza",
+    "pizzza",
     "cake"
 ]
 
