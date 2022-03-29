@@ -18,6 +18,7 @@ foods = [
     "lasagne",
     "lahmacun",
     "Ramen",
+    "Belgian Fries",
     "kebab"
 ]
 
