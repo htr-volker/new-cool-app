@@ -9,6 +9,7 @@ trainees = [
     "Bestami",
     "Yusuf",
     "Rhys",
+    "Pejman"
 ]
 # Add a food you like (or don't!) in this list!
 foods = [
@@ -16,6 +17,7 @@ foods = [
     "lasagne",
     "lahmacun",
     "Ramen",
+    "Belgian Fries"
 ]
 
 @app.route('/')
