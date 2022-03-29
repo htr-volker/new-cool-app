@@ -12,6 +12,7 @@ Your task is as follows:
     - Create a pull request where the base branch is set to `development`, and the compare branch is set to `feature/<your_name>`.
     - Resolve any merge requests.
 5. Once everyone's feature branch is merged into `development`, merge from `development` into `main` to 'release' the new version.
+6. Finally, make a pull request from your forked repo's `main` branch to my repo's `main` branch. Let me know and I'll review and (maybe) approve it!
 
 First team to merge to main wins!
 
